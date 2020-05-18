@@ -32,7 +32,7 @@
 		},
 		"yourExistingNightscoutSite": {
 			"type": "string",
-			"defaultValue": "https://CHANGEME.azurewebsites.net"
+			"defaultValue": "https://zucheru.herokuapp.com"
 		},
 		"enableMockedMode": {
 			"type": "string",
@@ -47,6 +47,7 @@
 		},
 		"branch": {
 			"type": "string"
+			"defaultValue": "master"
 		}
 	},
 	"resources": [{
